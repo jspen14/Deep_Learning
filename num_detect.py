@@ -4,7 +4,7 @@ from sklearn.preprocessing import StandardScaler
 import numpy as np
 
 
-digits = load_digits()                      # loads the digit data
+digits = load_digits()                      # loads the digit data, quite well I might add 
 # plt.gray()
 # plt.matshow(digits.images[1])
 # plt.show()
